@@ -1,2 +1,3 @@
 console.log("hola mundo")
-//este es un ejercicio de como usar git y github
+//este es una practica de laboratorio.
+console.log ("Jurgen Mata Vargas")
